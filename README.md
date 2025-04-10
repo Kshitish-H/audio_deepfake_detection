@@ -83,12 +83,18 @@ bash:
 git clone https://github.com/Kshitish-H/audio_deepfake_detection.git
 cd audio_deepfake_detection
 
-Step 2: Install dependencies
+### Step 2: Install dependencies
 bash:
 conda create -n aasist_env python=3.9
 conda activate aasist_env
 pip install -r requirements.txt
 
-Step 3: Download Dataset
+### Step 3: Download Dataset
 You can download the VSASV dataset from Hugging Face and place it in the correct directory:
 ./PA/PA/ASVspoof2019_PA_train/flac/
+
+## 📬 Contact
+For any questions, feel free to reach out via GitHub issues or email.
+
+Submitted for: Momenta Take-Home Assessment
+Author: Kshitish Handa
