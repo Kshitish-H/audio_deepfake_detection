@@ -1,5 +1,5 @@
 # audio_deepfake_detection
-# 🔊 Audio Deepfake Detection with AASIST | Momenta Take-Home Assignment
+# 🔊 Audio Deepfake Detection with AASIST 
 
 This repository contains my submission for the Momenta take-home assessment focused on detecting AI-generated human speech. The project includes a comparative analysis of three promising detection models and a complete implementation of the **AASIST** model using the **ASVspoof 2019 PA (VSASV)** dataset.
 
@@ -96,5 +96,4 @@ You can download the VSASV dataset from Hugging Face and place it in the correct
 ## 📬 Contact
 For any questions, feel free to reach out via GitHub issues or email.
 
-Submitted for: Momenta Take-Home Assessment
 Author: Kshitish Handa
